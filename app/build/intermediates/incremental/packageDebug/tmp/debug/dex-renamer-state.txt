@@ -1,0 +1,4 @@
+#Sat Jan 04 19:10:36 SGT 2020
+base.0=E\:\\TARC school\\Degree\\Sem 2\\Mobile Application Development\\android-kotlin-fundamentals-starter-apps-master\\TrackMySleepQualityCoroutines-Starter\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex
